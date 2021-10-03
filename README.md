@@ -28,6 +28,8 @@ Hello Go!
 - [x] [02 常量](02-constant)
 - [x] [03 常量](03-func)
 - [x] [04 并发编程](04-goroutine)
+- [x] [05 switch](05-switch)
+- [x] [06 goto](05-switch)
 
 ## 数据类型
 
