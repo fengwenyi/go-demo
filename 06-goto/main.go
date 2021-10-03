@@ -7,7 +7,7 @@ func main() {
 		if i == 9 {
 			goto breakTag
 		}
-		fmt.Println("%v \n", i)
+		fmt.Println(i)
 	}
 breakTag:
 	fmt.Println("结束遍历")
