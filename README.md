@@ -31,6 +31,7 @@ Hello Go!
 - [x] [05 switch](05-switch)
 - [x] [06 goto](06-goto)
 - [x] [07 数组](07-array)
+- [x] [08 切片](08-slice)
 
 ## 数据类型
 
