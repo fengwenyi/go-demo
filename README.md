@@ -34,6 +34,7 @@ Hello Go!
 - [x] [08 切片](08-slice)
 - [x] [09 结构体](09-struct)
 - [x] [10 指针](10-pointer)
+- [x] [11 序列化](11-serialization)
 
 ## 数据类型
 
