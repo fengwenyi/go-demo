@@ -36,6 +36,7 @@ Hello Go!
 - [x] [10 指针](10-pointer)
 - [x] [11 序列化](11-serialization)
 - [x] [12 反射](12-reflect)
+- [x] [13 time](13-time)
 
 ## 数据类型
 
